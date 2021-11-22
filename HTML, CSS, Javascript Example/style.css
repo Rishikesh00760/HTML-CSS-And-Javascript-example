@@ -1,0 +1,16 @@
+button {
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: chartreuse;
+  margin: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: burlywood;
+  border: 5px solid black;
+  color: #ffffff;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wDWSqIj2rWpJVIaNsDuUlgxeeEEMBxVHng&usqp=CAU");
+}
